@@ -1,6 +1,250 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet type="text/css" href="./style.css" ?>
-
-<main>
-    Modifiquen la plantilla de acuerdo su estilo.
-</main>
+<!-- ejercicio4.xml -->
+<semana>
+            <dia id="1" nombre="Lunes">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            15 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            29 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            35 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            16 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            28 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            38 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            18 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            25 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            30 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="2" nombre="Martes">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            19 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            25 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            35 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            15 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            26 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            33 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            14 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            25 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            29 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="3" nombre="Miercoles">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            20 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            32 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            38 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            21 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            32 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            34 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            17 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            29 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            33 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="4" nombre="Jueves">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            18 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            28 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            34 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            16 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            26 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            30 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            17 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            28 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            31 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="5" nombre="Viernes">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            15 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            29 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            33 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            19 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            24 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            28 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            18 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            26 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            38 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="6" nombre="Sabado">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            12 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            25 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            29 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            15 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            27 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            34 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            19 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            30 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            38 °C
+                            </temperatura>
+                    </region>
+            </dia>
+            <dia id="7" nombre="Domingo">
+                    <region id="1" nombre="Oriental">
+                            <temperatura id="1" nombre="Minima">
+                            25 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            33 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            40 °C
+                            </temperatura>
+                    </region>
+                    <region id="2" nombre="Central">
+                            <temperatura id="1" nombre="Minima">
+                            22 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            31 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            39 °C
+                            </temperatura>
+                    </region>
+                    <region id="3" nombre="Occidental">
+                            <temperatura id="1" nombre="Minima">
+                            21 °C
+                            </temperatura>
+                            <temperatura id="2" nombre="Promedio">
+                            29 °C
+                            </temperatura>
+                            <temperatura id="3" nombre="Maxima">
+                            37 °C
+                            </temperatura>
+                    </region>
+            </dia>
+</semana>
