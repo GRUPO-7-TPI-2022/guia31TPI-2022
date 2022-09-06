@@ -1,8 +1,115 @@
-main {
-    background-color: blue;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+semana {
+  background: #e5e3e9;
+  text-align: center;
+}
+
+semana::before {
+  content: "TEMPERATURAS";
+  font-size: 4em;
+}
+
+dia {
+  display: block;
+  width: 900px;
+  height: 300px;
+  border: 3px solid #e5e3e9;
+  margin: 10px auto;
+  border-radius: 30px;
+  background-color: #e5e3e9;
+}
+
+dia[nombre="Lunes"]::after {
+  content: "Lunes";
+  font-size: 3em;
+  position: absolute;
+  top: 80px;
+  right: 595px;
+}
+dia[nombre="Martes"]::after {
+  content: "Martes";
+  font-size: 3em;
+  position: absolute;
+  top: 395x;
+  right: 585px;
+}
+dia[nombre="Miercoles"]::after {
+  content: "Miércoles";
+  font-size: 3em;
+  position: absolute;
+  top: 720px;
+  right: 560px;
+}
+dia[nombre="Jueves"]::after {
+  content: "Jueves";
+  font-size: 3em;
+  position: absolute;
+  top: 1030px;
+  right: 585px;
+}
+dia[nombre="Viernes"]::after {
+  content: "Viernes";
+  font-size: 3em;
+  position: absolute;
+  top: 1345px;
+  right: 580px;
+}
+dia[nombre="Sabado"]::after {
+  content: "Sábado";
+  font-size: 3em;
+  position: absolute;
+  top: 1660px;
+  right: 580px;
+}
+dia[nombre="Domingo"]::after {
+  content: "Domingo";
+  font-size: 3em;
+  position: absolute;
+  top: 1975px;
+  right: 565px;
+}
+region {
+  display: inline-block;
+  width: 240px;
+  height: 200px;
+  border: 2px solid #e5e3e9;
+  margin-top: 50px;
+  margin-left: 40px;
+  border-radius: 25%;
+  background: rgba(115, 92, 92, 0.335);
+  box-shadow: 0.7rem 0.3rem 0 rgba(58, 59, 69, 0.15);
+}
+
+region[nombre="Oriental"]::after {
+  display: block;
+  content: "Oriental";
+  font-size: 2em;
+}
+region[nombre="Central"]::after {
+  content: "Central";
+  font-size: 2em;
+  color: rgba(210, 19, 83, 0.397);
+}
+region[nombre="Occidental"]::after {
+  content: "Occidental";
+  font-size: 2em;
+}
+temperatura {
+  font-size: 2em;
+  display: block;
+  display: flex;
+  justify-content: end;
+  padding: 15px;
+}
+
+temperatura[nombre="Minima"]::before {
+  content: "Mínima: ";
+  color: rgba(130, 34, 215, 0.466);
+}
+temperatura[nombre="Promedio"]::before {
+  content: "Promedio: ";
+  color: rgba(130, 34, 215, 0.466);
+}
+temperatura[nombre="Maxima"]::before {
+  content: "Máxima: ";
+  color: rgba(130, 34, 215, 0.466);
 }
