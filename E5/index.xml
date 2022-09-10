@@ -1,6 +1,116 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?xml-stylesheet type="text/css" href="./style.css" ?>
-
-<main>
-    Modifiquen la plantilla de acuerdo su estilo.
-</main>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<agenda>
+  <contactos>
+    <contacto id="1">
+      <nombre>Raul</nombre>
+      <apellido>Morales</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 11. Ave. Del Rosario</direccion>
+      <email>raulmorales@gmail.com</email>
+    </contacto>
+    <contacto id="2">
+      <nombre>Mónica</nombre>
+      <apellido>Rivera</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 15. Ave. Los Andes</direccion>
+      <email>monicarive@gmail.com</email>
+    </contacto>
+    <contacto id="3">
+      <nombre>Juan</nombre>
+      <apellido>Hernández</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 12. Ave. Del Rosario</direccion>
+      <email>juanhernan@gmail.com</email>
+    </contacto>
+    <contacto id="4">
+      <nombre>Óscar</nombre>
+      <apellido>Pérez</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 10. Ave. Monseñor</direccion>
+      <email>oscarpe@gmail.com</email>
+    </contacto>
+    <contacto id="5">
+      <nombre>Sofía</nombre>
+      <apellido>Valladares</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Colonia Lima, sensuntepeque, Cabañas</direccion>
+      <email>sofisvalla@gmail.com</email>
+    </contacto>
+    <contacto id="6">
+      <nombre>Marcos</nombre>
+      <apellido>Villalta</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 9na. Ave. Del Romero</direccion>
+      <email>marcosvilla@gmail.com</email>
+    </contacto>
+    <contacto id="7">
+      <nombre>Milton</nombre>
+      <apellido>Díaz</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 8va. Ave. Constitución</direccion>
+      <email>miltondias@gmail.com</email>
+    </contacto>
+    <contacto id="8">
+      <nombre>Alonso</nombre>
+      <apellido>Chávez</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 11. Ave. España primera</direccion>
+      <email>alonsocha@gmail.com</email>
+    </contacto>
+    <contacto id="9">
+      <nombre>Verónica</nombre>
+      <apellido>Flores</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Colonia Santa Cruz, Morazán</direccion>
+      <email>veromora@gmail.com</email>
+    </contacto>
+    <contacto id="10">
+      <nombre>Thatiana</nombre>
+      <apellido>Crúz</apellido>
+      <telefonos>
+        <tel_fijo>22558866</tel_fijo>
+        <tel_movil>66885544</tel_movil>
+        <tel_trabajo>77889966</tel_trabajo>
+      </telefonos>
+      <direccion>Calle 9na. Ave. Los Andes</direccion>
+      <email>thaticruz@gmail.com</email>
+    </contacto>
+  </contactos>
+</agenda>
