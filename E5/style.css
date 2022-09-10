@@ -1,8 +1,120 @@
-main {
-    background-color: blue;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+@charset "UTF-8";
+
+*{
+	margin:0;
+	padding:0;
 }
+
+agenda::before{
+	display: block;
+	content: "Agenda de Contactos Personales";
+    color: white;
+    text-align: center;
+	width:50%;
+	margin: 40px auto;
+	font-weight: bold;
+	font-family: georgian;
+	font-size: 2.9em;
+	padding: 1.2em;
+	background-color: #3c6e71;
+	border-radius: 5px;	
+	
+}
+
+agenda{
+	background-color: #284b63;
+	line-height: 1.3em;
+	font-family: georgian;
+	font-size: 1.2em;
+}
+contactos{
+	display: block;
+	background: #d9d9d9;
+	width:90%;
+	padding: 1.3em;
+	margin: 20px auto; 
+	border-radius: 5%;
+}
+contacto{
+	display: inline-block;
+	padding: 1.2em;
+	background: #353535;
+	width: 260px;
+	height: 240px;
+	color: #fff;
+	border-radius: 5%;
+	margin-top: 40px;
+    margin-left: 40px;
+}
+
+nombre{
+  font-size: 1.8em;
+  margin: 10px 0;
+  color: #d8e1e9;
+}
+
+apellido{
+  font-size: 1.8em;
+  margin: 10px 0;
+  color: #d8e1e9;
+}
+
+telefonos::before {
+    padding-top: 10px;
+    content: "Teléfonos: ";
+    display: block;
+	color: #b8b8ff;
+}
+telefonos{
+	display: block;
+}
+
+tel_fijo::before {
+    content: "•";
+    padding-left: 10px;
+    padding-right: 5px;
+    display: inline;
+}
+
+tel_fijo{
+	display: block;
+}
+
+tel_movil::before {
+    content: "•";
+    padding-left: 10px;
+    padding-right: 5px;
+    display: inline;
+}
+tel_movil{
+	display: block;
+}
+
+tel_trabajo::before {
+    content: "•";
+    padding-left: 10px;
+    padding-right: 5px;
+    display: inline;
+}
+tel_trabajo{
+	display: block;
+}
+
+direccion::before {
+    padding-top: 10px;
+    content: "Direccion: ";
+	color: #b8b8ff;
+}
+
+direccion{
+	display:block;
+}
+
+email::before {
+    padding-top: 10px;
+    content: "Email: ";
+	color: #b8b8ff;
+}
+
+
+
