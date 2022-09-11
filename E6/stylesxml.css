@@ -1,0 +1,102 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+main::before{
+	display: block;
+	content: "MATERIAS DE UN CICLO";
+    color: white;
+    text-align: center;
+	width:60%;
+	margin: 20px auto;
+	font-weight: bold;
+	font-family: system-ui;
+	font-size: 1em;
+	padding: 0.5em;
+	background-color: #194b4b;
+	border-radius: 5px;	
+	
+}
+
+main{
+	background-color: #f1f6fa;
+	line-height: 1.3em;
+	font-family: Helvetica;
+	font-size: 1.2em;
+    display: block;
+}
+
+ficha{
+    display: block;
+    background-color: bisque;
+    width:80%;
+	padding: 1em;
+	margin: 20px auto;
+    border-radius: 2px;
+}
+nombre[data = "1"]:before {
+    display: block;
+    content: "Nombre:";
+    font-family: system-ui;
+    font-weight: bold;
+}
+
+
+nombre{
+    display: block;
+    font-family: system-ui;
+    text-align: center;
+}
+apellido{
+    display:block;
+    font-family: system-ui;
+    text-align: center;
+}
+
+ciclo{
+    display: block;
+    background-color: bisque;  
+    text-align: center;
+}
+
+materia::before{
+	display: block;
+	content: "MATERIA";
+    color: white;
+    text-align: center;
+	width:60%;
+	margin: 5px auto;
+	font-weight: bold;
+	font-family: system-ui;
+	font-size: 1em;
+	padding: 0.5em;
+	background-color: #194b4b;
+	border-radius: 5px;	
+	
+}
+
+materia{
+	display: inline-table;
+	padding: 1em;
+	background: #353535;
+	width: 200px;
+	height: 100px;
+	color: #fff;
+	border-radius: 2%;
+	margin-top: 40px;
+    margin-left: 40px;
+}
+
+gt{
+    display: block;
+    font-weight: bold;
+}
+gd{
+    display: block;
+    font-weight: bold;
+}
+
+horario{
+    display: table;
+}

@@ -1,0 +1,487 @@
+{
+	"semana":{"dia":[
+			{
+				"@id":"1",
+				"@nombre":"Lunes",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            15 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            29 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            35 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            16 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            28 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            38 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            18 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            25 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            30 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"2",
+				"@nombre":"Martes",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            19 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            25 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            35 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            15 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            26 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            33 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            14 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            25 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            29 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"3",
+				"@nombre":"Miercoles",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            20 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            32 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            38 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            21 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            32 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            34 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            17 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            29 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            33 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"4",
+				"@nombre":"Jueves",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            18 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            28 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            34 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            16 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            26 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            30 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            17 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            28 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            31 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"5",
+				"@nombre":"Viernes",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            15 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            29 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            33 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            19 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            24 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            28 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            18 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            26 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            38 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"6",
+				"@nombre":"Sabado",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            12 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            25 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            29 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            15 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            27 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            34 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            19 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            30 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            38 °C\n      "
+							}
+						]
+					}
+				]
+			},
+			{
+				"@id":"7",
+				"@nombre":"Domingo",
+				"region":[
+					{
+						"@id":"1",
+						"@nombre":"Oriental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            25 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            33 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            40 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"2",
+						"@nombre":"Central",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            22 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            31 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            39 °C\n      "
+							}
+						]
+					},
+					{
+						"@id":"3",
+						"@nombre":"Occidental",
+						"temperatura":[
+							{
+								"@id":"1",
+								"@nombre":"Minima",
+								"#text":"\n                            21 °C\n      "
+							},
+							{
+								"@id":"2",
+								"@nombre":"Promedio",
+								"#text":"\n                            29 °C\n      "
+							},
+							{
+								"@id":"3",
+								"@nombre":"Maxima",
+								"#text":"\n                            37 °C\n      "
+							}
+						]
+					}
+				]
+			}
+		]}
+}

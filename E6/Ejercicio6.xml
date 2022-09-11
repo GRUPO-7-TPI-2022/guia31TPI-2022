@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="stylesxml.css" ?>
+
+<main>
+
+    <ficha carnet="RR20044">
+        <nombre data ="1">Manuel Alejandro</nombre>
+        <apellido>Rico Rodriguez</apellido>
+        <ciclo id = "01">
+
+            <materia cod="MAT415">
+                <nombre>Matematica 4</nombre>
+                <teorico gt="1">
+                    <gt> GT 01 </gt>
+                    <horario>
+                    L   09:50-11:30
+                    X   09:50-11:30
+                    </horario>
+                    
+                </teorico>
+                <laboratorio gd="20">
+                    <gd> GD 20 </gd>
+                    <horario>
+                    L	08:05:00 - 09:50:00
+                    </horario>
+                    
+                </laboratorio>
+            </materia>
+
+            <materia cod="HDP115">
+                <nombre>Herramientas de productividad</nombre>
+                <teorico gt="1"> 
+                    <gt> GT 01 </gt>
+                    <horario>
+                    L	15:05:00 - 16:45:00	
+                    X	15:05:00 - 16:45:00
+                    </horario> 
+                </teorico> 
+                <laboratorio gd="4">
+                    <gd> GD 04 </gd>
+                    <horario>
+                    V	08:05:00 - 09:50:00
+                    </horario>
+                </laboratorio>
+            </materia>
+
+            <materia cod="TSI115">
+                <nombre>Teoria de Sistema</nombre>
+                <teorico gt="2">
+                    <gt> GT 02 </gt>
+                    <horario>
+                    M   09:50-11:30
+                    V   09:50-11:30
+                    </horario>
+                </teorico>
+                <laboratorio gd="3">
+                    <gd> GD 03 </gd>
+                    <horario>
+                     J   18:35-20:15
+                    </horario>
+                </laboratorio>     
+            </materia>
+
+        </ciclo>
+
+    </ficha>
+
+
+</main>

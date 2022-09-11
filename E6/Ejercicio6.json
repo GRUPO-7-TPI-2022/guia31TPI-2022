@@ -1,0 +1,59 @@
+{
+	"main": {
+		"ficha": {
+			"nombre": {
+				"_data": "1",
+				"__text": "Manuel Alejandro"
+			},
+			"apellido": "Rico Rodriguez",
+			"ciclo": {
+				"materia": [
+					{
+						"nombre": "Matematica 4",
+						"teorico": {
+							"gt": "GT 01",
+							"horario": "L   09:50-11:30\n                    X   09:50-11:30",
+							"_gt": "1"
+						},
+						"laboratorio": {
+							"gd": "GD 20",
+							"horario": "L\t08:05:00 - 09:50:00",
+							"_gd": "20"
+						},
+						"_cod": "MAT415"
+					},
+					{
+						"nombre": "Herramientas de productividad",
+						"teorico": {
+							"gt": "GT 01",
+							"horario": "L\t15:05:00 - 16:45:00\t\n                    X\t15:05:00 - 16:45:00",
+							"_gt": "1"
+						},
+						"laboratorio": {
+							"gd": "GD 04",
+							"horario": "V\t08:05:00 - 09:50:00",
+							"_gd": "4"
+						},
+						"_cod": "HDP115"
+					},
+					{
+						"nombre": "Teoria de Sistema",
+						"teorico": {
+							"gt": "GT 02",
+							"horario": "M   09:50-11:30\n                    V   09:50-11:30",
+							"_gt": "2"
+						},
+						"laboratorio": {
+							"gd": "GD 03",
+							"horario": "J   18:35-20:15",
+							"_gd": "3"
+						},
+						"_cod": "TSI115"
+					}
+				],
+				"_id": "01"
+			},
+			"_carnet": "RR20044"
+		}
+	}
+}

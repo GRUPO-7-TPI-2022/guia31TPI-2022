@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+}
+header {
+  height: 15vh;
+  width: auto;
+  background-color: white;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+
+}
+main {
+    height: 85vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #A27B5C ;
+    flex-direction: column;
+}
+.titulo {
+  
+  color: #A27B5C;
+  font-family: 'Franklin Gothic Medium';
+}
+table {
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+table {
+    table-layout: fixed;
+    width: 50%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+    font-family: Georgia;
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+
+i{
+  display: block;
+  
+}

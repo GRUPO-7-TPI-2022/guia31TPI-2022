@@ -1,0 +1,124 @@
+{
+	"agenda":{"contactos":{"contacto":[
+				{
+					"@id":"1",
+					"nombre":"Raul",
+					"apellido":"Morales",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 11. Ave. Del Rosario",
+					"email":"raulmorales@gmail.com"
+				},
+				{
+					"@id":"2",
+					"nombre":"Mónica",
+					"apellido":"Rivera",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 15. Ave. Los Andes",
+					"email":"monicarive@gmail.com"
+				},
+				{
+					"@id":"3",
+					"nombre":"Juan",
+					"apellido":"Hernández",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 12. Ave. Del Rosario",
+					"email":"juanhernan@gmail.com"
+				},
+				{
+					"@id":"4",
+					"nombre":"Óscar",
+					"apellido":"Pérez",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 10. Ave. Monseñor",
+					"email":"oscarpe@gmail.com"
+				},
+				{
+					"@id":"5",
+					"nombre":"Sofía",
+					"apellido":"Valladares",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Colonia Lima, sensuntepeque, Cabañas",
+					"email":"sofisvalla@gmail.com"
+				},
+				{
+					"@id":"6",
+					"nombre":"Marcos",
+					"apellido":"Villalta",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 9na. Ave. Del Romero",
+					"email":"marcosvilla@gmail.com"
+				},
+				{
+					"@id":"7",
+					"nombre":"Milton",
+					"apellido":"Díaz",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 8va. Ave. Constitución",
+					"email":"miltondias@gmail.com"
+				},
+				{
+					"@id":"8",
+					"nombre":"Alonso",
+					"apellido":"Chávez",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 11. Ave. España primera",
+					"email":"alonsocha@gmail.com"
+				},
+				{
+					"@id":"9",
+					"nombre":"Verónica",
+					"apellido":"Flores",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Colonia Santa Cruz, Morazán",
+					"email":"veromora@gmail.com"
+				},
+				{
+					"@id":"10",
+					"nombre":"Thatiana",
+					"apellido":"Crúz",
+					"telefonos":{
+						"tel_fijo":"22558866",
+						"tel_movil":"66885544",
+						"tel_trabajo":"77889966"
+					},
+					"direccion":"Calle 9na. Ave. Los Andes",
+					"email":"thaticruz@gmail.com"
+				}
+			]}}
+}
